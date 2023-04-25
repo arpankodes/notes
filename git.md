@@ -25,6 +25,9 @@ git clone git@github.com:RocketChat/Rocket.Chat.git
 work
 > git clone git@bitbucket.org-work_akanungo:akaungo/repo_name.git
 
+general
+> $ git clone https://oauth2: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@github.com/GitUser97/demo1.git
+
 ### For Locally Existing Repositories
 
 List the Git remote of the repository,
